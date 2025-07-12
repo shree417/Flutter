@@ -1,5 +1,8 @@
 # Flutter
 
+A simple cross-platform mobile application built with Flutter that translates text between multiple languages in real time.
+Features a clean and user-friendly interface to enter text, select source and target languages, and view instant translations.
+
 in pubsec.ybml
 
  # The following adds the Cupertino Icons font to your application.
